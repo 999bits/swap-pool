@@ -1,4 +1,4 @@
-# Swapool
+# Swap-pool
 
 ```
 1. initialize with 2 tokens.
